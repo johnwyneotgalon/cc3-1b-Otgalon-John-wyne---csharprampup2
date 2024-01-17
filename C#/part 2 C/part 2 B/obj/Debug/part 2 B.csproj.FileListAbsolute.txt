@@ -1,0 +1,7 @@
+C:\Users\dgo01\OneDrive\Documents\C#\part 2 B\part 2 B\bin\Debug\part 2 B.exe.config
+C:\Users\dgo01\OneDrive\Documents\C#\part 2 B\part 2 B\bin\Debug\part 2 B.exe
+C:\Users\dgo01\OneDrive\Documents\C#\part 2 B\part 2 B\bin\Debug\part 2 B.pdb
+C:\Users\dgo01\OneDrive\Documents\C#\part 2 B\part 2 B\obj\Debug\part 2 B.csproj.AssemblyReference.cache
+C:\Users\dgo01\OneDrive\Documents\C#\part 2 B\part 2 B\obj\Debug\part 2 B.csproj.CoreCompileInputs.cache
+C:\Users\dgo01\OneDrive\Documents\C#\part 2 B\part 2 B\obj\Debug\part 2 B.exe
+C:\Users\dgo01\OneDrive\Documents\C#\part 2 B\part 2 B\obj\Debug\part 2 B.pdb
